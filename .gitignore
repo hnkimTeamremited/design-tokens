@@ -1,0 +1,9 @@
+node_modules/
+dist/
+tokens-temp.json
+*.log
+.DS_Store
+.omc/
+
+# Figma Tokens Studio가 자동 생성하는 파일들은 커밋
+!tokens/*.json

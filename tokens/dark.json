@@ -1,0 +1,16 @@
+{
+  "dark": {
+    "color": {
+      "primary": { "value": "{global.color.blue.100}", "type": "color" },
+      "background": {
+        "primary": { "value": "#121212", "type": "color" },
+        "secondary": { "value": "#1E1E1E", "type": "color" }
+      },
+      "text": {
+        "primary": { "value": "#FFFFFF", "type": "color" },
+        "secondary": { "value": "{global.color.gray.100}", "type": "color" }
+      },
+      "border": { "value": "#2C2C2C", "type": "color" }
+    }
+  }
+}
